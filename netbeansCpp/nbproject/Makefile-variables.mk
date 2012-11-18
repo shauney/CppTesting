@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux-x86
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
-CND_ARTIFACT_NAME_Debug=cpptest
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/cpptest
+CND_ARTIFACT_NAME_Debug=netbeanscpp
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/netbeanscpp
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Debug=cpptest.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/cpptest.tar
+CND_PACKAGE_NAME_Debug=netbeanscpp.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/netbeanscpp.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux-x86
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
-CND_ARTIFACT_NAME_Release=cpptest
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/cpptest
+CND_ARTIFACT_NAME_Release=netbeanscpp
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/netbeanscpp
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Release=cpptest.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/cpptest.tar
+CND_PACKAGE_NAME_Release=netbeanscpp.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/netbeanscpp.tar
 #
 # include compiler specific variables
 #
